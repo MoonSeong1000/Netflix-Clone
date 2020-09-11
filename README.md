@@ -1,6 +1,6 @@
 # netflix_clone
 
-A new Flutter application.
+flutter를 학습하기 위해서 netflix UI를 클론해봅니다.
 
 ## Getting Started
 
